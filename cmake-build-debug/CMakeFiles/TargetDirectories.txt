@@ -1,0 +1,3 @@
+C:/Users/Jim/CLionProjects/ArrayEx2/cmake-build-debug/CMakeFiles/ArrayEx2.dir
+C:/Users/Jim/CLionProjects/ArrayEx2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jim/CLionProjects/ArrayEx2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
